@@ -1,13 +1,9 @@
 
 # Life Engine Headless
 
-<div class="error-callout" style="color: #ffffff; background-color: rgba(255, 0, 0, 0.2); padding: 1.2em; border-left: 4px solid #ff0000; margin: 1em 0;">
-    <svg width="24" height="24" viewBox="0 0 24 24" style="vertical-align: middle; margin-right: 10px;">
-        <path d="M12 1 L23 22 L1 22 Z" fill="#ff0000"/>
-        <text x="12" y="17" text-anchor="middle" fill="#ffffff" style="font-size: 16px;">!</text>
-    </svg>
-    <span style="font-size: 16px;">This is not the original, but a fork of the  Life-Engine Project. <a href="https://github.com/MaxRobinsonTheGreat/LifeEngine"> See here</a> for the original. </span>
-</div>
+> [!CAUTION]
+> This is not the original, but a fork of the Life-Engine Project. [See here](https://github.com/MaxRobinsonTheGreat/LifeEngine) for the original.
+
 
 This project is a fork of the original life-engine, it aims to achive a headless and "faster" execution with added feature of recording runs in a custom format.
 
